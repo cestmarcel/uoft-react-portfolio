@@ -1,0 +1,16 @@
+[
+    {
+        "title": "EcoRoute",
+        "description": "A route calculator that gives users insights on the CO2 impact of their individual travel choices.",
+        "project": "https://titanian229.github.io/EcoRoute/",
+        "github": "https://github.com/titanian229/EcoRoute",
+        "image": "/img/ecoroute.png"
+    },
+    {
+        "title": "TravelMag - digital travel magazine",
+        "description": "TravelMag is a digital travel magazine so you can learn about the best a city has to offer—from local curators.",
+        "project": "https://shielded-sierra-26115.herokuapp.com/",
+        "github": "https://github.com/Damon-Zhong/Travel-Mag",
+        "image": "/img/travelmag.png"
+    }
+]

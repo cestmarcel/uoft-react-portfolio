@@ -18,15 +18,15 @@ const AllProjects = () => {
     const cards = 
         projects.map(project => {
             return (
-                <Col className="col-sm-4">
-                    <Card className="mb-2" key={project.title} style={{ width: '100%' }}>
+                <Col className="col-sm-4" key={project.title}>
+                    <Card className="mb-2" style={{ width: '100%' }}>
                         <Card.Img variant="top" src={project.image} />
                         <Card.Body>
                             <Card.Title>{project.title}</Card.Title>
                             <Card.Text>
                             {project.description}
                             </Card.Text>
-                            <a href={project.github} target="_blank" class="btn btn-primary mt-2">View Github</a>
+                            <a href={project.github} target="_blank" className="btn btn-primary mt-2">View Github</a>
                         </Card.Body>
                     </Card>
                 </Col>
@@ -34,9 +34,9 @@ const AllProjects = () => {
         });
     const rows = createRows(cards);
     return (
-            rows.map(row => {
+            rows.map((row, index) => {
                 return (
-                    <Row>
+                    <Row key={index}>
                         {row}
                     </Row>
                 )
