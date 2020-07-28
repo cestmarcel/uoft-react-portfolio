@@ -25,7 +25,7 @@ function Intro(){
                     <div className="buttons">
                         <a href="./portfolio" className="btn btn-primary mt-2 mr-2">View my portfolio</a>
                         <a href="./contact" className="btn btn-primary mt-2 mr-2">Contact</a>
-                        <a href="marcelthiemann.pdf" className="btn btn-primary mt-2">Download my CV</a>
+                        <a href="marcelthiemann.pdf" className="btn btn-primary mt-2 mr-2">Download my CV</a>
                             <DropdownButton as={ButtonGroup} title="Let's connect online!" id="bg-nested-dropdown" className="mt-2">
                                 <Dropdown.Item eventKey="1" href="http://linkedin.com/in/marcelthiemann" target="_blank">LinkedIn</Dropdown.Item>
                                 <Dropdown.Item eventKey="2" href="http://github.com/cestmarcel" target="_blank">Github</Dropdown.Item>

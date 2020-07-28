@@ -31,4 +31,6 @@ The contact page features a header with a short intro as well as a dummy-form to
 
 This application was built using React (documentation under: https://reactjs.org/docs/getting-started.html) and Gatsby (documentation under: https://www.gatsbyjs.org/docs/).
 
+This page has been deployed using Netlify (https://docs.netlify.com/).
+
 This application also uses Bootstrap for React, utilizing responsive Styles and components. More information about Bootstrap for React is available under https://react-bootstrap.github.io/.
