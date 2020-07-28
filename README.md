@@ -7,7 +7,7 @@
 ## Description
 This is a simple developer portfolio built with React.
 
-The project is available under: https://marcelthiemann.com/uoft-portfolio
+The project is available under: https://uoft-portfolio.herokuapp.com
 
 ![Screenshot of the landing page](https://github.com/cestmarcel/uoft-react-portfolio/blob/master/assets/screenshots/landing.png)
 
@@ -19,9 +19,7 @@ The page features a consistent navbar, a responsive layout built with Bootstrap,
 
 The homepage serves as the about page and features a header with a headline and intro as well as a bio-part with a portrait as well as a short profile. There are also buttons to get to the portfolio page as well as the contact page and a dropdown menu features links to my online profiles. These links open in new tabs for the user's convenience.
 
-![Screenshot of the homepage](https://github.com/cestmarcel/uoft-portfolio/blob/master/assets/screenshots/homepage.png)
-
-#### The portfolio page
+### The portfolio page
 
 The portfolio features a header with a short intro as well as a grid of six cards that each summarize a digital project I've done. They feature responsive images, a short description text, and a link to get to the respective website.
 
