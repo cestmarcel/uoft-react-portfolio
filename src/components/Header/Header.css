@@ -1,0 +1,9 @@
+.jumbotron {
+    background-image: url(../../../public/img/header.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.detail-lead {
+    width: 60%;
+}

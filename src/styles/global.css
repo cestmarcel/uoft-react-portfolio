@@ -1,0 +1,69 @@
+/* Document styles */
+
+.rubik {
+    font-family: 'Rubik', sans-serif;
+}
+
+/* Hero stage styles */
+
+.jumbotron {
+    background-image: url(../assets/img/header.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.detail-lead {
+    width: 60%;
+}
+
+/* Bio styles */
+
+.media img {
+    width: 30%;
+}
+
+/* Bio: Button-group styles */
+
+.btn-primary {
+    color: #fff;
+    background-color: #2C4251;
+    border-color: #2C4251;
+}
+
+.btn-primary:hover {
+    color: #2C4251;
+    background-color: #FF784F;
+    border-color: #FF784F;
+}
+
+.btn-secondary {
+    color: #ffffff;
+    background-color: #FF784F;
+    border-color: #FF784F;
+}
+
+.btn-secondary:hover {
+    color: #FFFFFF;
+    background-color: #2C4251;
+    border-color: #2C4251;
+}
+
+/* Spacer */
+
+.spacer {
+    height: 60px;
+}
+
+/* Footer styles */
+
+
+
+/* Media queries */
+
+@media screen and (max-width: 1200px) {
+
+    .detail-lead {
+        width: 100%;
+    }
+
+}

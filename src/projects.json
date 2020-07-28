@@ -1,0 +1,93 @@
+[
+    {
+        "title": "Personal website",
+        "description": "My personal website was the first project I worked on.",
+        "project": "https://marcelthiemann.com/",
+        "github": "https://github.com/cestmarcel/cestmarcel.github.io",
+        "image": "/img/marcelthiemann.png"
+    },
+    {
+        "title": "Password generator",
+        "description": "A simple password generator written in JavaScript to generate a secure password.",
+        "project": "https://marcelthiemann.com/uoft-password-generator",
+        "github": "https://github.com/cestmarcel/uoft-password-generator",
+        "image": "/img/password.png"
+    },
+    {
+        "title": "Daily planner",
+        "description": "A simple daily schedule planner written in JavaScript.",
+        "project": "https://marcelthiemann.com/uoft-planner",
+        "github": "https://github.com/cestmarcel/uoft-planner",
+        "image": "/img/planner.png"
+    },
+    {
+        "title": "Weather dashboard",
+        "description": "A weather app for basic weather info and forecast.",
+        "project": "https://marcelthiemann.com/uoft-weather",
+        "github": "https://github.com/cestmarcel/uoft-weather",
+        "image": "/img/weather.png"
+    },
+    {
+        "title": "CLI readme generator",
+        "description": "A command line application to easily create a quality readme.",
+        "project": "",
+        "github": "https://github.com/cestmarcel/uoft-readme-generator",
+        "image": "/img/readme.png"
+    },
+    {
+        "title": "CLI template engine",
+        "description": "A command line application to generate an html team overview.",
+        "project": "",
+        "github": "https://github.com/cestmarcel/uoft-template-engine",
+        "image": "/img/team.png"
+    },
+    {
+        "title": "Notes app",
+        "description": "A simple application to write, view, and delete notes.",
+        "project": "https://stark-ravine-91812.herokuapp.com/",
+        "github": "https://github.com/cestmarcel/uoft-notes",
+        "image": ""
+    },
+    {
+        "title": "Employee tracker",
+        "description": "A simple application for managing a company's employees using node, inquirer, and MySQL.",
+        "project": "",
+        "github": "https://github.com/cestmarcel/uoft-employee-tracker",
+        "image": "/img/notes.png"
+    },
+    {
+        "title": "Burger restaurant app",
+        "description": "An application to display menu items, built with MySQL and Express Handlebars.",
+        "project": "https://damp-caverns-25501.herokuapp.com/",
+        "github": "https://github.com/cestmarcel/uoft-handlebars",
+        "image": "/img/burger.png"
+    },
+    {
+        "title": "JavaScript Quiz",
+        "description": "A quiz about JavaScript written in JavaScript.",
+        "project": "https://marcelthiemann.com/uoft-quiz",
+        "github": "https://github.com/cestmarcel/uoft-quiz",
+        "image": "/img/quiz-compressed.gif"
+    },
+    {
+        "title": "Fitness tracker",
+        "description": "An application to track workouts and exercises.",
+        "project": "https://uoft-fitness-marcel.herokuapp.com/",
+        "github": "https://github.com/cestmarcel/uoft-fitness",
+        "image": "/img/fitness.png"
+    },
+    {
+        "title": "Budget tracker",
+        "description": "A Progressive Web Application to keep track of a budget, online and offline.",
+        "project": "https://uoft-budget-marcel.herokuapp.com/",
+        "github": "https://github.com/cestmarcel/uoft-budget-tracker",
+        "image": "/img/budget.png"
+    },
+    {
+        "title": "React employee directory",
+        "description": "An interactive employee overview built with React",
+        "project": "https://uoft-react-directory.herokuapp.com",
+        "github": "https://github.com/cestmarcel/uoft-react-directory",
+        "image": "/img/react-employee.png"
+    }
+]
