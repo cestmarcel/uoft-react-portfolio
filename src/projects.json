@@ -46,14 +46,14 @@
         "description": "A simple application to write, view, and delete notes.",
         "project": "https://stark-ravine-91812.herokuapp.com/",
         "github": "https://github.com/cestmarcel/uoft-notes",
-        "image": ""
+        "image": "/img/notes.png"
     },
     {
         "title": "Employee tracker",
         "description": "A simple application for managing a company's employees using node, inquirer, and MySQL.",
         "project": "",
         "github": "https://github.com/cestmarcel/uoft-employee-tracker",
-        "image": "/img/notes.png"
+        "image": "/img/tracker.png"
     },
     {
         "title": "Burger restaurant app",
@@ -81,13 +81,13 @@
         "description": "A Progressive Web Application to keep track of a budget, online and offline.",
         "project": "https://uoft-budget-marcel.herokuapp.com/",
         "github": "https://github.com/cestmarcel/uoft-budget-tracker",
-        "image": "/img/budget.png"
+        "image": "/img/budget.jpg"
     },
     {
         "title": "React employee directory",
         "description": "An interactive employee overview built with React",
         "project": "https://uoft-react-directory.herokuapp.com",
         "github": "https://github.com/cestmarcel/uoft-react-directory",
-        "image": "/img/react-employee.png"
+        "image": "/img/employee.png"
     }
 ]
