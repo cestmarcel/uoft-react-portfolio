@@ -7,7 +7,7 @@
 ## Description
 This is a simple developer portfolio built with React.
 
-The project is available under: https://uoft-portfolio.herokuapp.com
+The project is available under: https://wizardly-aryabhata-c4615a.netlify.app/
 
 ![Screenshot of the landing page](https://github.com/cestmarcel/uoft-react-portfolio/blob/master/assets/screenshots/landing.png)
 
